@@ -1,7 +1,7 @@
 # Inicio do repositório
-Bom-vindo!
+Bem-vindo!
 
 ```md
-## To nem ai
+## Coisas e mais coisas
 ```
 # Fim
